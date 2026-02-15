@@ -1,0 +1,14 @@
+div{
+  margin: 0 auto;
+  display: inline-block;
+}
+div, li{
+  padding-bottom: 10px;
+  
+}
+li{
+  background-color: plum;
+  margin: 0 auto;
+  padding: 12px;
+  
+}
